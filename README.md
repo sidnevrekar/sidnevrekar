@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Siddhartha Nevrekar 👋
 
-<!--
-**sidnevrekar/sidnevrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate programmer and aspiring software developer. I'm currently 14 years old, and I love to explore new ideas and build interesting projects. 🚀
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On:
+- Learning **Javascript** , **Flutter** , and **Html/CSS**
+- Learning Hacking using **HackTheBox**
+- Trying to **Improve** my coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m Currently Learning:
+- **Web Development** (HTML, CSS, JavaScript) , and **Flutter**
+- **Data Structures and Algorithms**
+- **Python** for various projects 
+
+## 🌟 Fun Fact:
+- I'm self-taught and love experimenting with new ideas.
+  
+
+## 💡 Fun with GitHub Stats:
+![Siddhartha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidnevrekar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+<!-- If you'd like to add a custom theme or more stats, you can use GitHub Stats cards -->
+
+
+---
+
+Thanks for visiting my GitHub! Let’s connect and build something awesome together! 😊
+
